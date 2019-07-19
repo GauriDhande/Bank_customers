@@ -3,6 +3,11 @@ Deep Learning to predict whether a customer will leave the bank or will continue
 
 # Requirements
 ```
-pip install keras
-pip install tensorflow
+Install Numpy: pip install numpy
+Install Pandas: pip install pandas
+Install Tensorflow: pip install tensorflow (for cpu)
+                    pip install tensorflow-gpu (for gpu)
+Install keras: pip install keras
+Install scikit-learn: pip install sklearn
+Install Matplotlib: pip install matplotlib
 ```
